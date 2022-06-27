@@ -6,7 +6,7 @@ namespace Sum
         static void Main(string[] args)
         {
             int a=3 ,b=2;
-            Console.WriteLine("Sum{0}=", a+b);
+            Console.WriteLine(" the Sum{0}=", a+b);
             Console.ReadKey();
         }
         
